@@ -12,6 +12,7 @@ virtualenv -p python3 env
 
 ## inicializar maquina virtual
 .\env\Scripts\activate
+source env/bin/activate
 
 ## correr archivo raiz
 python .\index.py
